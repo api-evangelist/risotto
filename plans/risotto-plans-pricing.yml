@@ -1,0 +1,18 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.tryrisotto.com/pricing
+sources:
+- https://www.tryrisotto.com/pricing
+name: Risotto pricing
+audience: business-product
+pricing_basis: negotiated
+plans:
+- name: Startup Plan
+  price_text: $1,250/m (Paid Annually)
+  price: 1250
+  description: Available to <200 employees
+- name: Enterprise
+  price_text: Contact Us
+  description: Custom and scalable for you.
+docs: https://www.tryrisotto.com/pricing

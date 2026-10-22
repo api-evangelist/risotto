@@ -1,25 +1,88 @@
 aid: risotto
+
 name: Risotto
-description: 'Risotto is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by bonfire-ventures) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/687df3ce131ebdf359c40fc7/68ac0e3a31e48d94e2f2cdbf_OG%20Image%20(1)%20(1).webp
+
+description: Risotto is an AI help desk platform that automates internal support tickets, knowledge requests, access management, and troubleshooting
+  with context‑aware AI. It integrates with Slack, Jira, Zendesk, Notion, Confluence and more, offering cross‑department functionality and IAM
+  automations for IT teams.
+
 url: https://raw.githubusercontent.com/api-evangelist/risotto/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-21'
+
 modified: '2026-10-21'
+
 tags:
 - Company
-apis: []
+- AI
+- HelpDesk
+- ITAutomation
+- Ticketing
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- bonfire-ventures
+
 common:
+- type: Plans
+  url: plans/risotto-plans-pricing.yml
+- type: LLMsTxt
+  url: llms/risotto-llms.txt
+- type: Hosts
+  url: hosts/risotto-hosts.yml
+- type: Vendors
+  url: vendors/risotto-vendors.yml
+- type: DomainSecurity
+  url: security/risotto-domain-security.yml
 - type: Website
   url: https://tryrisotto.com
+- type: Documentation
+  url: https://www.tryrisotto.com
+- type: Pricing
+  url: https://www.tryrisotto.com/pricing
+- type: Blog
+  url: https://www.tryrisotto.com/blog
+- type: TermsOfService
+  url: https://www.tryrisotto.com/terms
+- type: PrivacyPolicy
+  url: https://www.tryrisotto.com/privacy-policy
+
+apis:
+- name: Risotto API
+  description: Risotto provides an AI help desk platform with integrations for Slack, Jira, Zendesk, Notion, and more.
+  humanURL: https://www.tryrisotto.com
+  baseURL: null
+  aid: risotto:risotto-api
+
+x-backed-by:
+- bonfire-ventures
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation pages return 404 or redirect, no machine‑readable OpenAPI spec found.
+  evidence:
+  - url: https://tryrisotto.com/openapi.json
+    status: 301
+  - url: https://www.tryrisotto.com/openapi.json
+    status: 404
+  checked: '2026-10-22'
+x-enrichment:
+  date: '2026-10-22'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

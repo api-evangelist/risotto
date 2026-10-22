@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/risotto/integrations
+- https://n8n.io/integrations/risotto/
+- https://composio.dev/toolkits/risotto
+- https://monid.ai/tools/risotto
+checked:
+- https://composio.dev/toolkits/risotto
+- https://monid.ai/tools/risotto
+- https://n8n.io/integrations/risotto/
+- https://zapier.com/apps/risotto/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

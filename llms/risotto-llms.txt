@@ -1,0 +1,58 @@
+# Risotto
+
+> Risotto is an AI help desk tool that automates up to 60% of internal tickets with AI that understands context, not just keywords. It handles knowledge-based questions, software access requests, password resets, and multi-step troubleshooting without employees leaving their existing tools. Smart routing, instant answers, and assistance that actually helps. Risotto integrates with Slack, Jira, Freshservice, Zendesk, Notion, Confluence, and more. Deploys in hours, not weeks.
+
+
+## Risotto ITSM
+- [Risotto](https://www.tryrisotto.com/): Risotto turns your existing chat tools into an AI-powered help desk that resolves tier 1 employee requests instantly.
+
+
+## Industry Solutions
+
+- [IT Department](https://www.tryrisotto.com/solutions/it): Get IT support that’s always on with Risotto’s AI ITSM, all within your current stack.
+- [HR Department](https://www.tryrisotto.com/solutions/hr): Make every HR interaction faster, smarter, and less manual with Risotto’s conversational AI assistant.
+- [All Teams](https://www.tryrisotto.com/solutions/teams): Automate repeat tickets for all teams, whether legal, finance, engineering, or sales ops with Risotto’s AI help desk.
+
+
+## Use Cases
+
+- [Ticket Automation](https://www.tryrisotto.com/use-cases/ticket-automation): Automate routine support tickets with Risotto’s AI ITSM within your chat tool like Slack, Jira, Zendesk, Gmail, Teams, and more.
+- [IGA Automation](https://www.tryrisotto.com/use-cases/iga-automation): Save time, improve security, and reduce cloud costs with automated IGA.
+- [Unified Help Desk](https://www.tryrisotto.com/use-cases/unified-help-desk): One AI help desk for IT, HR, Finance, and beyond, in your corporate Slack and chat channels. Automatic resolution of tier 1 tickets.
+- [Chat-Based Ticketing](https://www.tryrisotto.com/use-cases/chat-based-ticketing): Connect your chat tool like Slack or Teams and automate 20-60% of support requests with Risotto’s conversational AI.
+- [IT Automations](https://www.tryrisotto.com/use-cases/it-automations): Connect Risotto to your systems and automate >40% IT requests like access provisioning, password resets, troubleshooting, and more.
+
+
+## Integrations
+
+- [Integrate Risotto with all tech stack](https://www.tryrisotto.com/integrations): Explore all third-party tools and services that Risotto integrates with, including Ticketing Systems, Chat tools, Identity and Access Management platforms, Knowledge Bases, MDM, and HRIS. Turn scattered requests into one AI-powered support funnel by connecting Risotto to your techstack. 
+- [IRU Integration](https://www.tryrisotto.com/iru-risotto-integration): Connect IRU to Risotto to automate device management within chat.
+- [Jira Integration](https://www.tryrisotto.com/jira-risotto-integration): Automatically create, update, and resolve Jira tickets from chat conversations with Risotto.
+- [Freshservice Integration](https://www.tryrisotto.com/freshservice-risotto-integration): Classify, prioritize, and accelerate Freshservice ticket resolution with Risotto’s conversational AI.
+- [Zendesk Integration](https://www.tryrisotto.com/zendesk-risotto-integration): Connect Risotto with Zendesk to handle employee requests end-to-end, all within your chat tool.
+
+
+## Product
+
+- [Demo Booking](https://www.tryrisotto.com/demo): Get a live demo of how Risotto works, improves employee support experience across teams, and how effective it is as an AI ITSM.
+- [How Risotto Works](https://www.tryrisotto.com/how-it-works): Understand how Risotto turns corporate chat tools into an automated AI help desk with a simple setup in a day. 
+- [Pricing Plans](https://www.tryrisotto.com/pricing): Explore Risotto’s Startup and Enterprise plans built for growing businesses.
+
+
+## Resources and Community
+
+- [Blog](https://www.tryrisotto.com/blog): Resources to help you optimize your employee help desk experience by Risotto.
+- [Customer Stories](https://www.tryrisotto.com/customers): Customer stories from various industry leaders using Risotto for ITSM automation.
+
+
+## Case Studies
+
+- [Gusto Auto-Resolves 55% of Tickets](https://www.tryrisotto.com/customers/how-gusto-auto-resolves-55-of-tickets-with-risotto): Read how Gusto transformed internal support with Risotto saving 114,000+ hours in support wait time and scaling automated support across 11 departments.
+- [Jobber Builts an Enterprise-Wide AI Support Funnel](https://www.tryrisotto.com/customers/how-jobber-built-an-enterprise-wide-ai-support-funnel-with-risotto): Jobber uses Risotto to unify IT and People workflows, deliver fast self-service support, and save 2,700+ hours across teams.
+-  [ThoughtSpot Transformed IT Support with AI](https://www.tryrisotto.com/customers/from-50-manual-tickets-day-to-multi-department-automation-how-thoughtspot-transformed-it-support-with-ai): From 50+ manual tickets/day to multi-department automation with Risotto.
+
+
+## Legal Information
+
+- [Terms and Conditions](https://www.tryrisotto.com/terms): Review the terms governing the use of Risotto's services.
+- [Privacy Policy](https://www.tryrisotto.com/privacy-policy): Understand how Risotto handles your personal information.

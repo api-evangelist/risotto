@@ -1,0 +1,25 @@
+generated: '2026-10-22'
+source: https://www.tryrisotto.com/privacy-policy
+method: probed
+signals:
+  data_controller:
+    evidence:
+      - source: https://www.tryrisotto.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "Company (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to ACA Projects Inc, 1655 Hopkins St., Berkeley, CA 94707.For the purpose of the GDPR, the Company is the Data Controller."
+    note: The provider identifies itself as the GDPR Data Controller.
+  gdpr:
+    evidence:
+      - source: https://www.tryrisotto.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "GDPR refers to EU General Data Protection Regulation."
+    note: Mentions GDPR compliance.
+  ccpa:
+    evidence:
+      - source: https://www.tryrisotto.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "CCPA and/or CPRA refers to the California Consumer Privacy Act (the \"CCPA\") as amended by the California Privacy Rights Act of 2020 (the \"CPRA\")."
+    note: References CCPA/CPRA obligations.
